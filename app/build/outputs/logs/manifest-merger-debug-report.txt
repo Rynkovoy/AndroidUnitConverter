@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\e09d12e6cec80928300f243d4ef7a1d63f2c0c16\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\e4f69ca8b4af7a9b949c6b1a75eea9d86924a952\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\c199d53a16ce8056360c7614c0474373ee9d8568\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\a28ab4a5d43cea3e37491c56ba850ab19fe5e649\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\0aab8648a8ecaa1e09eeb4fb325773508c610522\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\3343bf895dcbd5c95a9996d3512fddfcec7ff5c0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\1993d4d60e89c0f5a502f3015f5a42f0ec8e60de\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\aab4239dd06e7d9a5290763ae807e6938f16b29c\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\b50a44068c2af2cca2f00dc26a3000132f646fe7\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:5:48-80
+	android:icon
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:5:18-47
+activity#rynkovoy.unitconverter.UnitConverter
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:6:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:8:13-49
+	android:label
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:7:13-45
+	android:name
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:6:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:12:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:15:13-20:29
+data
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:16:17-56
+	android:scheme
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:16:23-53
+action#android.intent.action.VIEW
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:18:17-78
+	android:name
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:18:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml:19:27-73
+uses-sdk
+INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\e09d12e6cec80928300f243d4ef7a1d63f2c0c16\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\e4f69ca8b4af7a9b949c6b1a75eea9d86924a952\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\c199d53a16ce8056360c7614c0474373ee9d8568\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\a28ab4a5d43cea3e37491c56ba850ab19fe5e649\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\0aab8648a8ecaa1e09eeb4fb325773508c610522\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\3343bf895dcbd5c95a9996d3512fddfcec7ff5c0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\1993d4d60e89c0f5a502f3015f5a42f0ec8e60de\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\aab4239dd06e7d9a5290763ae807e6938f16b29c\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\b50a44068c2af2cca2f00dc26a3000132f646fe7\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Anton Rynkovoy\.android\build-cache\e09d12e6cec80928300f243d4ef7a1d63f2c0c16\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anton Rynkovoy\Desktop\UnitConverter\app\src\main\AndroidManifest.xml
